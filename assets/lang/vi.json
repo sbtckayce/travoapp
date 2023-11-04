@@ -1,0 +1,207 @@
+{
+  "hi": "XIN CHÀO",
+  "go_next": "Nơi nào bạn muốn đi tiếp theo",
+  "search_text_place": "Tìm kiếm điểm đến",
+  "search_text_hotel": "Tìm kiếm khách sạn",
+  "see_all": "Tất Cả",
+  "popular": "Điểm đến phổ biến",
+
+  "hotels": "Khách sạn",
+  "flights": "Chuyến bay",
+  "all": "Tất cả",
+
+  "info_user": "Thông tin người dùng",
+  "name": "Tên",
+  "email": "Email",
+  "country": "Quê hương",
+  "phone": "Số điện thoại",
+
+  "hotel_name": "Khách sạn",
+  "filter_name": "Lọc khách sạn",
+  "price": "Giá",
+  "rating": "Sao",
+  "sort": "Sắp xếp",
+  "view": "Xem",
+  "card_number": "Số thẻ",
+
+  "book_a_room": "Đặt phòng",
+
+  "information": "Thông tin",
+  "location": "Vị trí",
+  "select_room": "Chọn Phòng",
+
+  "one_room": "1 phòng",
+  "night": "đêm",
+  "choose": "Chọn",
+  "quantity": "Số lượng",
+  "max_guest": "Khách tối đa",
+
+  "checkout_name": "Thanh Toán",
+  "book_and_review": "Đặt và đánh giá",
+  "payment": "Chi trả",
+  "confirm": "Xác nhận",
+
+  "contact_details": "Chi tiết liên lạc",
+  "add_contact": "Thêm liên lạc",
+  "change_contact": "Sửa liên lạc",
+  "change_card": "Thay đổi thẻ",
+
+  "promo_code": "Mã khuyến mãi",
+  "add_promo_code": "Thêm mã",
+  "change_promo_code": "Sửa mã",
+
+  "booking_date": "Thời gian đặt",
+
+  "check_in": "Nhận phòng",
+  "check_out": "Trả phòng",
+
+  "done": "Xong",
+  "promo": "Khuyến mãi",
+  "coupon_code": "Mã giảm giá",
+  "add_code": "Thêm mã",
+
+  "mini_market": "Cửa hàng tiện lợi",
+  "credit": "Thẻ tín dụng",
+  "bank": "Chuyển khoản",
+
+  "add_card": "Thêm Thẻ",
+  "exp_date": "Ngày tạo",
+  "cvv": "Mã cvv",
+
+  "contact_info": "Thông tin liên lạc",
+  "no_information": "Không có thông tin",
+  "code": "Mã",
+  "reduce":"Giảm",
+
+  "please_add_contact": "Làm ơn thêm liên lạc",
+  "check_out_large_check_in": "Ngày trả phải sau ngày đặt",
+  "please_add_card": "Làm ơn thêm thẻ",
+
+  "password": "Mật khẩu",
+  "remember_me": "Ghi nhớ tôi",
+  "forgot_password": "Quên mật khẩu?",
+  "login": "Đăng nhập",
+  "complete_form": "Hoàn thành form để tiếp tục",
+  "or_login": "hoặc đăng nhập với",
+  "no_account": "Chưa có tài khoản?",
+  "sign_up": "Đăng kí",
+  "or_sign_up": "hoặc đăng kí với",
+  "send": "Gửi",
+
+  "language": "Ngôn ngữ",
+  "sign_out": "Đăng xuất",
+
+  "pay_now": "Thanh toán ngay",
+  "review_hotel": "Nhận xét khách sạn",
+  "see_more": "Xem thêm",
+  "see_less": "Thu lại",
+  "no_image_review": "Không có hình ảnh",
+  "add_review": "Thêm nhận xét",
+  "comment": "Bình luận",
+  "post": "Đăng",
+  "review": "Nhận xét",
+  "review_it": "Nếu bạn đến đây từ trước hãy nhận xét nó",
+
+  "/night": "/ đêm",
+  "favourite": "Yêu thích",
+  "no_item_hotel": "Không có khách sạn",
+  "no_item_room": "Không có phòng",
+  "no_item_place": "Không có địa điểm",
+  "search_hotel": "Tìm kiếm khách sạn",
+
+  "user_profile": "Thông tin người dùng",
+  "refresh": "Tải lại",
+  "booking_name": "Đặt",
+
+  "no_internet": "Không có mạng",
+  "no_connected": "Không có mạng vui lòng kiểm tra kết nối mạng để tiếp tục",
+
+  "info_app": "Ứng dụng được tạo ra và phát triển bởi nhóm đào tạo flutter appcyclone",
+
+  "enjoying": "Yêu thích",
+  "by_team": "TravoApp? bởi team appcyclone",
+  "tap_star": "Chọn số sao đánh giá cho",
+  "choose_submit": "Chọn gửi để đăng xuất",
+
+  "cancel": "Trở về",
+  "submit": "Đồng ý",
+
+  "active": "Hoạt động",
+  "expired": "Hết hạn",
+
+  "edit_review": "Chỉnh sửa đánh giá",
+  "edit": "Sửa",
+  "do_review": "Bạn có muốn xóa đánh giá?",
+  "select_seat": "Chọn Ghế",
+  "require_seat": "Ghế đã được chọn",
+  "please_choose_seat": "Làm ơn chọn ghế",
+  "remove_remember": "Xóa thông tin người dùng trên cục bộ",
+  "save_remember": "Lưu thông tin người dùng trên cục bộ",
+
+  "no_more": "Hết",
+  "load_more": "Tải thêm",
+
+  "price_range": "Phạm vi giá",
+  "rating_range": "Phạm vi sao",
+  "filter": "Lọc",
+
+  "add_place": "Thêm địa điểm ưa thích",
+  "remove_place": "Xóa địa điểm ưa thích",
+
+  "book_flight": "Đặt chuyến bay",
+  "one_way": "Một chiều",
+  "round_trip": "Khứ hồi",
+  "multi_city": "Đa thành phố",
+  "search": "Tìm kiếm",
+  "flight_1": "Chuyến bay 1",
+  "flight_2": "Chuyến bay 2",
+  "from": "Từ",
+  "to": "Tới",
+  "departure": "Khởi hành",
+  "return": "Trở về",
+  "passenger": "Hành khách",
+  "1_passenger": "1 Hành khách",
+  "class": "Loại",
+  "arrive": "Đến",
+  "flight_no": "Chuyến bay số",
+
+  "seat": "Ghế",
+  "processed": "Xử lí",
+  "airline": "Hãng hàng không",
+  "date": "Thời gian",
+  "boarding_time": "Thời gian lên máy bay",
+  "insurance": "Bảo hiểm",
+
+  "please_choose_from": "Làm ơn chọn điểm đi",
+  "please_choose_to": "Làm ơn chọn điểm tới",
+  "from_to_different": "Hai địa điểm phải khác nhau",
+  "no_flight": "Không có chuyến bay",
+
+  "1_night": "1 Đêm",
+  "taxes": "Thuế và phí",
+  "un_available": "Không khả dụng",
+  "promotion":"Khuyến mãi",
+
+  "no_booking_flight":"Không có đặt chuyến bay nào cả",
+  "no_booking_hotel":"Không có đặt khách sạn nào cả",
+
+  "pls_enter_code":"Làm ơn nhập mã",
+
+  "success":"Thành công",
+  "pls_choose_image": "Làm ơn chọn hình ảnh",
+  "pls_write_comment": "Làm ơn viết nhận xết",
+  "pls_edit_image":"Làm ơn thay đổi hình ảnh",
+
+  "booking_hotel":"Khách sạn đã đặt",
+  "booking_flight":"Chuyến bay đã đặt",
+
+  "want_delete_booking": "Bạn có muốn xóa nó không",
+  "if_want_delete": "Nếu muốn hãy nhấn vào nút gửi",
+
+  "total":"Tổng cộng",
+  "create_at":"Tạo vào",
+  "hotel":"Khách sạn",
+  "room":"Phòng",
+  "if_night_price_300":"*Nếu số tiền thanh toán lớn hơn 300 sẽ được miễn thuế",
+  "if_night_price_150":"*Nếu số tiền thanh toán lớn hơn 150 sẽ được miễn thuế"
+}

@@ -1,0 +1,58 @@
+import 'package:flutter/material.dart';
+
+import '/widgets/widgets.dart';
+
+class OptionCheckout extends StatelessWidget {
+  const OptionCheckout(
+      {super.key,
+      required this.imageUrl,
+      required this.nameOption,
+      this.onPressed,
+      required this.textButton,
+      this.child});
+  final String imageUrl;
+  final String nameOption;
+  final Function()? onPressed;
+  final String textButton;
+  final Widget? child;
+  @override
+  Widget build(BuildContext context) {
+    
+    return Container(
+      padding: const EdgeInsets.symmetric(vertical: 20, horizontal: 20),
+      margin: const EdgeInsets.only(bottom: 20),
+      decoration: BoxDecoration(
+          borderRadius: BorderRadius.circular(12),
+          color: Theme.of(context).colorScheme.onBackground),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Row(
+            children: [
+              Image.asset(
+                imageUrl,
+                width: 32,
+              ),
+              const SizedBox(
+                width: 10,
+              ),
+              Text(
+                nameOption,
+                style: Theme.of(context).textTheme.bodyMedium!.copyWith(
+                    color: Theme.of(context).colorScheme.secondary,
+                    fontWeight: FontWeight.w500),
+              )
+            ],
+          ),
+          const SizedBox(
+            height: 15,
+          ),
+          SizedBox(
+            child: child,
+          ),
+        ButtonAddOptionCheckout(textButton: textButton,onPressed: onPressed,)
+        ],
+      ),
+    );
+  }
+}

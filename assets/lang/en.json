@@ -1,0 +1,218 @@
+{
+  "hi": "HI",
+  "go_next": "where are you going next?",
+  "search_text_place": "Search your destination",
+  "search_text_hotel": "Search your hotel",
+  "see_all": "See All",
+  "popular": "Popular Destinations",
+
+  "hotels": "Hotels",
+  "flights": "Flights",
+  "all": "All",
+
+  "info_user": "Info User",
+  "name": "Name",
+  "email": "Email",
+  "country": "Country",
+  "phone": "Phone Number",
+  "card_number": "Card Number",
+
+  "hotel_name": "Hotels",
+  "filter_name": "Filter",
+  "price": "Price",
+  "rating": "Rating",
+  "sort": "Sort",
+  "view": "View",
+
+  "book_a_room": "Book a room",
+
+  "information": "Infomation",
+  "location": "Location",
+  "select_room": "Select Room",
+
+  "one_room": "1 room",
+  "night": "night",
+  "choose": "Choose",
+  "quantity": "Quantity",
+  "max_guest": "Max guest",
+
+  "checkout_name": "Checkout",
+  "book_and_review": "Book And Review",
+  "payment": "Payment",
+  "confirm": "Confirm",
+
+  "contact_details": "Contact Details",
+  "add_contact": "Add Contact",
+  "change_contact": "Change Contact",
+
+  "promo_code": "Promo Code",
+  "add_promo_code": "Add Promo Code",
+  "change_promo_code": "Change Promo Code",
+
+  "booking_date": "Booking Date",
+
+  "check_in": "Check-in",
+  "check_out": "Check-out",
+
+  "done": "Done",
+  "promo": "Promo",
+  "coupon_code": "Coupon Code",
+  "add_code": "Add Code",
+
+  "mini_market": "Mini Market",
+  "credit": "Credit / Debit Card",
+  "bank": "Bank Transfer",
+
+  "add_card": "Add Card",
+  "change_card": "Change Card",
+  "exp_date": "Exp. Date",
+  "cvv": "CVV",
+
+  "contact_info": "contact info",
+  "no_information": "no information",
+  "code": "code",
+  "reduce":"Reduce",
+
+  "please_add_contact": "Please add contact",
+  "check_out_large_check_in": "Check out must be large Check in",
+  "please_add_card": "Please add card",
+
+  "password": "Password",
+  "remember_me": "Remember Me",
+  "forgot_password": "Forgot password?",
+  "login": "Login",
+  "complete_form": "Complete the form to continue",
+  "or_login": "or log in with",
+  "no_account": "Dont have an account?",
+  "sign_up": "Sign Up",
+  "or_sign_up": "or sign up with",
+  "send": "Send",
+
+  "language": "Language",
+  "sign_out": "Sign Out",
+
+  "pay_now": "Pay Now",
+
+  "review_hotel": "Review Hotel",
+  "see_more": "See more",
+  "see_less": "See less",
+  "no_image_review": "No image review",
+
+  "add_review": "Add Review",
+  "comment": "Comment",
+  "post": "Post",
+
+  "review": "Review",
+  "review_it": "If you have been before please review it?",
+  "/night": "/ night",
+
+  "favourite": "Favourite",
+
+  "no_item_hotel": "No item hotel",
+  "no_item_room": "No item room",
+  "no_item_place": "No item place",
+  "search_hotel": "Search hotel",
+  "user_profile": "User profile",
+  "refresh": "Refresh",
+  "booking_name": "Booking",
+
+  "no_internet": "No internet",
+  "no_connected": "No internet pls check your internet to continue",
+
+  "info_app": "The application is created and developed by the flutter app cyclone training team",
+
+  "enjoying": "Enjoying",
+  "by_team": "TravoApp? by team appcyclone",
+  "tap_star": "Tap a star to rate it on the",
+  "choose_submit": "Choose submit to sign out",
+
+  "cancel": "Cancel",
+  "submit": "Submit",
+
+  "active": "Active",
+  "expired": "Expired",
+
+  "edit_review": "Edit review",
+  "edit": "Edit",
+  "do_review": "Do you want delete review?",
+
+  "select_seat": "Select Seat",
+  "require_seat": "Seat have been selected",
+  "please_choose_seat": "Please choose seat",
+
+  "remove_remember": "Remove info user to local",
+  "save_remember": "Save info user to local",
+
+  "no_more": "No more item",
+  "load_more": "Load more item",
+
+  "price_range": "Price Range",
+  "rating_range": "Rating Range",
+  "filter": "Filter",
+
+  "add_place": "Add Place To Favourite",
+  "remove_place": "Remove Place To Favourite",
+
+  "book_flight": "Book Your Flight",
+  "one_way": "One Way",
+  "round_trip": "Round Trip",
+  "multi_city": "Multi City",
+  "search": "Search",
+  "flight_1": "Flight 1",
+  "flight_2": "Flight 2",
+  "from": "From",
+  "to": "To",
+  "departure": "Departure",
+  "return": "Return",
+  "passenger": "Passenger",
+  "1_passenger": "1 Passenger",
+  "class": "Class",
+  "arrive": "Arrive",
+  "flight_no": "Flight No.",
+
+  "seat": "Seat",
+  "processed": "Processed",
+  "airline": "Airline",
+  "date": "Date",
+  "boarding_time": "Boarding Time",
+  "insurance": "Insurance",
+
+  "please_choose_from": "Please choose from place",
+  "please_choose_to": "Please choose to place",
+  "from_to_different": "From and to place must different",
+  "no_flight": "No Flight",
+
+  "1_night": "1 Night",
+  "taxes": "Taxes and Fees",
+
+  "un_available": "Un available",
+  "promotion": "Promotion",
+
+  "no_booking_flight": "No booking flight",
+  "no_booking_hotel": "No booking hotel",
+
+  "pls_enter_code": "Please enter code",
+
+  "success": "Success",
+  "pls_choose_image": "Please choose image",
+  "pls_write_comment": "Please write comment",
+  "pls_edit_image": "Please edit image",
+
+  "booking_hotel": "Booking hotel",
+  "booking_flight": "Booking flight",
+
+  "want_delete_booking": "Do you want delete booking",
+  "if_want_delete": "If you want to delete please choose submit",
+
+  "total":"Total",
+  "create_at":"Create at",
+
+  "hotel":"Hotel",
+  "room":"Room",
+
+  "if_night_price_300":"*If the payment amount is greater than 300, it will be tax free",
+  "if_night_price_150":"*If the payment amount is greater than 150, it will be tax free"
+
+
+ 
+}
